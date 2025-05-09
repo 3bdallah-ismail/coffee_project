@@ -39,7 +39,7 @@ class HomeScreen extends StatelessWidget {
                         Row(
                           children: [
                             Text(
-                              "Bilzen, Tanjungbalai",
+                              "Ashmoun, Menoufia",
                               style: GoogleFonts.inter(
                                 fontWeight: FontWeight.bold,
                                 fontSize: 16,
